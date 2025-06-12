@@ -3,6 +3,7 @@
 
  🎯 Objective:-
  
+ 
 Segment objects in video frames in real-time using DeepLabV3
 
 Apply different color schemes to each object category
@@ -11,6 +12,7 @@ Display the colorized video stream interactively through a GUI
 
 
 🧠 Model Used :-
+
 
 Semantic Segmentation Model: DeepLabV3
 
@@ -21,6 +23,7 @@ Trained on: PASCAL VOC / COCO (supports 20–80+ object classes)
 
 🧠 Model Architecture :-
 
+
 You can use or fine-tune:
 
 Zhang et al.’s model – Based on classification and regression over color channels in LAB space.
@@ -29,6 +32,7 @@ InstColorization – Context-aware deep colorization with instance-level segment
 
 
 🖥️ GUI Features :-
+
 
 Upload and preview videos
 
@@ -42,6 +46,7 @@ Live colorized video display
 
 
 🙌 Acknowledgments :-
+
 
 TensorFlow DeepLab
 
